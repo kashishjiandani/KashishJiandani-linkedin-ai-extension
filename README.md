@@ -11,7 +11,7 @@ A powerful Chrome extension built with the WXT framework that revolutionizes how
 
 ## 🎥 Demo
 
-![Demo Video](https://somup.com/cZ6tbkH71X)
+[Watch the Demo Video](https://somup.com/cZ6tbkH71X)
 
 ## ✨ Features
 
